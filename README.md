@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**unreleasedSA/unreleasedSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Gracias por visitar y bienvenido a mi perfil, soy Santiago :)
 
-Here are some ideas to get you started:
+Mi lugar de origen es: Colombia, Medellín.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Actualmente me encuentro cursando una técnica en el SENA de programación de software.
+
+
+Nombraré algunas habilidades que posee mi persona para que me conozcan y estén al tanto de mi talento.
+
+
+
+
+### Habilidades :book:
+
++ Conocimientos en python
++ Conocimientos HTML Y CSS
++ Conocimientos básicos en JS
++ Conocimientos básicos de PHP
++ Conocimiento en general de la hardware de un PC
+
+### Aptitudes :smile:
+
++ Creativo
++ Perpicaz
++ Resiliente
++ Ingenioso
+
+### Datos divertidos acerca de mi
+
++ Me gustan mucho los deportes, siempre he sido muy atlético :soccer: :runner:
+
++ Tengo una mascota que la amo como si fuera una hija para mí :dog:
+
++ Me gustan los videojuegos, es un hobby :computer:
+
+
+
+
+
+
